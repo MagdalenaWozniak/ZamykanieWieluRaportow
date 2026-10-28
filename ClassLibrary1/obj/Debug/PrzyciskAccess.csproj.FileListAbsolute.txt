@@ -1,0 +1,37 @@
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\ONE017 - Przycisk Access.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\ONE017 - Przycisk Access.pdb
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\CDNImportGUS.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\ErpGanttWindowsFormsHost.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\ErpGantt.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\cdn_api20182.net.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\CdnHydra.xml
+C:\Users\bartek\xl\ONE017\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\bartek\xl\ONE017\ClassLibrary1\obj\Debug\PrzyciskAccess.csprojAssemblyReference.cache
+C:\Users\bartek\xl\ONE017\ClassLibrary1\obj\Debug\one017.WyborSciezek.resources
+C:\Users\bartek\xl\ONE017\ClassLibrary1\obj\Debug\PrzyciskAccess.csproj.GenerateResource.cache
+C:\Users\bartek\xl\ONE017\ClassLibrary1\obj\Debug\PrzyciskAccess.csproj.CoreCompileInputs.cache
+C:\Users\bartek\xl\ONE017\ClassLibrary1\obj\Debug\PrzyciskAccess.csproj.CopyComplete
+C:\Users\bartek\xl\ONE017\ClassLibrary1\obj\Debug\ONE017 - Przycisk Access.dll
+C:\Users\bartek\xl\ONE017\ClassLibrary1\obj\Debug\ONE017 - Przycisk Access.pdb
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\ONE017 - Przycisk Access.dll.config
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\ONE017 - Przycisk Access.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\ONE017 - Przycisk Access.pdb
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\CDNImportGUS.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\ErpGanttWindowsFormsHost.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\ErpGantt.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\cdn_api20182.net.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\CdnHydra.xml
+C:\Users\bartek\xl\ONE021\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\bartek\xl\ONE021\ClassLibrary1\obj\Debug\PrzyciskAccess.csprojAssemblyReference.cache
+C:\Users\bartek\xl\ONE021\ClassLibrary1\obj\Debug\one017.WyborSciezek.resources
+C:\Users\bartek\xl\ONE021\ClassLibrary1\obj\Debug\PrzyciskAccess.csproj.GenerateResource.cache
+C:\Users\bartek\xl\ONE021\ClassLibrary1\obj\Debug\PrzyciskAccess.csproj.CoreCompileInputs.cache
+C:\Users\bartek\xl\ONE021\ClassLibrary1\obj\Debug\PrzyciskAccess.csproj.CopyComplete
+C:\Users\bartek\xl\ONE021\ClassLibrary1\obj\Debug\ONE017 - Przycisk Access.dll
+C:\Users\bartek\xl\ONE021\ClassLibrary1\obj\Debug\ONE017 - Przycisk Access.pdb

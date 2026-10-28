@@ -1,0 +1,34 @@
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ZamykanieWielu.csproj.CoreCompileInputs.cache
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ZamykanieWielu.csproj.CopyComplete
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\CdnHydra.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\CDNImportGUS.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ErpGanttWindowsFormsHost.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ErpGantt.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\cdn_api20182.net.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\CdnHydra.xml
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ZamykanieWielu.csprojAssemblyReference.cache
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ONE-001 - ZamykanieRaportowKasowych.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ONE-001 - ZamykanieRaportowKasowych.pdb
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ONE-001 - ZamykanieRaportowKasowych.dll
+C:\Users\LattePotężnie\Desktop\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ONE-001 - ZamykanieRaportowKasowych.pdb
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ONE-001 - ZamykanieRaportowKasowych.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ONE-001 - ZamykanieRaportowKasowych.pdb
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\adodb.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\cdn_api20193.net.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\CDNImportGUS.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ErpGanttWindowsFormsHost.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\ErpGantt.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\cdn_api20182.net.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\EntityFramework.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\CdnHydra.xml
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\bin\Debug\Microsoft.Threading.Tasks.xml
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ZamykanieWielu.csprojAssemblyReference.cache
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ZamykanieWielu.csproj.CoreCompileInputs.cache
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ZamykanieWielu.csproj.CopyComplete
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ONE-001 - ZamykanieRaportowKasowych.dll
+C:\Users\bartek\xl\arc one1\pra Hydra\ONE-ZamykanieWielu\ClassLibrary1\obj\Debug\ONE-001 - ZamykanieRaportowKasowych.pdb
